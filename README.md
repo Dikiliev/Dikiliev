@@ -1,33 +1,67 @@
+<div align="center">
+
 # Магомед — Full-stack web developer
 
-Разрабатываю современные веб-приложения: backend, frontend, API, realtime-функциональность и инфраструктуру.
+Фулстек веб-разработчик. Backend, frontend, API, realtime и аккуратная архитектура.
 
-## Стек
-- Python, Django, DRF
-- JavaScript, TypeScript
-- NestJS
-- React, Vite
-- MUI, shadcn/ui
-- MobX, Zustand
-- PostgreSQL, Redis
-- Docker
-- WebSockets
-- C#
+[![Telegram](https://img.shields.io/badge/Telegram-@mdikiy-2AABEE?logo=telegram&logoColor=white)](https://t.me/mdikiy)
+[![Email](https://img.shields.io/badge/Email-mdikiy069@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mdikiy069@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Dikiliev?label=Followers&style=flat&logo=github)](https://github.com/Dikiliev)
 
-## Специализация
-- Full-stack разработка
-- Backend API и бизнес-логика
-- Интерфейсы на React
-- Реалтайм-функции
-- Архитектура веб-приложений
-- Контейнеризация и рабочее окружение
+</div>
+
+---
+
+## О себе
+
+- Фулстек веб-разработчик
+- Backend: Python, Django, DRF, NestJS, C#
+- Frontend: React, TypeScript, Vite
+- UI: MUI, shadcn/ui
+- State management: MobX, Zustand
+- Infra: Docker, Redis, PostgreSQL
+- Realtime: WebSockets
+
+## Технологии
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,typescript,javascript,react,vite,nestjs,cs,postgres,redis,docker,git,github)](https://skillicons.dev)
+
+</div>
+
+## Статистика
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Dikiliev&show_icons=true&theme=transparent&hide_border=true&locale=ru)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikiliev&layout=compact&theme=transparent&hide_border=true&locale=ru)
+
+</div>
 
 ## Избранные проекты
-- [Проект 1](https://github.com/Dikiliev/madn-studio) — full-stack приложение
-- [Проект 2](https://github.com/Dikiliev/premier) — frontend для оффлайн бизнеса
-- [Проект 3](https://github.com/Dikiliev/estechpc-front) — frontend для оффлайн бизнеса
 
+### 1. Название проекта
+Краткое описание: что делает проект, какой стек, чем он интересен.
 
-## Контакты
-- Telegram: https://t.me/mdikiy
-- Email: mdikiy069@gmail.com
+**Стек:** Django, DRF, React, PostgreSQL, Docker
+
+### 2. Название проекта
+Краткое описание: backend-сервис / full-stack приложение / realtime-модуль.
+
+**Стек:** NestJS, Redis, WebSockets, PostgreSQL
+
+### 3. Название проекта
+Краткое описание: красивый frontend или production-подход.
+
+**Стек:** React, TypeScript, Vite, MUI / shadcn/ui
+
+<details>
+<summary><b>Подробнее обо мне</b></summary>
+
+- Люблю аккуратную архитектуру и понятный код
+- Интересуюсь full-stack разработкой и production-подходом
+- Делаю pet-projects, приближенные к реальным продуктам
+
+</details>
