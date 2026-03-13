@@ -1,67 +1,34 @@
 <div align="center">
 
-# Магомед — Full-stack web developer
+# Magomed
+### Full-Stack Web Developer
 
-Фулстек веб-разработчик. Backend, frontend, API, realtime и аккуратная архитектура.
+Django / DRF / NestJS / React / TypeScript
 
-[![Telegram](https://img.shields.io/badge/Telegram-@mdikiy-2AABEE?logo=telegram&logoColor=white)](https://t.me/mdikiy)
-[![Email](https://img.shields.io/badge/Email-mdikiy069@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mdikiy069@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Dikiliev?label=Followers&style=flat&logo=github)](https://github.com/Dikiliev)
+[![Telegram](https://img.shields.io/badge/@mdikiy-2AABEE?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mdikiy)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdikiy069@gmail.com)
+[![GitHub](https://img.shields.io/badge/Dikiliev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dikiliev)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,django,ts,js,react,vite,nestjs,cs,postgres,redis,docker" />
 
 </div>
 
 ---
 
-## О себе
+### About
 
-- Фулстек веб-разработчик
-- Backend: Python, Django, DRF, NestJS, C#
-- Frontend: React, TypeScript, Vite
-- UI: MUI, shadcn/ui
-- State management: MobX, Zustand
-- Infra: Docker, Redis, PostgreSQL
-- Realtime: WebSockets
+Full-stack web apps.  
+Clean UI. Strong backend. Realtime features.
 
-## Технологии
+### Projects
 
-<div align="center">
+- **[madn-studio](https://github.com/Dikiliev/madn-studio)** — creative studio website
+- **[premier](https://github.com/Dikiliev/premier)** — project
+- **[estechpc-front](https://github.com/Dikiliev/estechpc-front)** — frontend app
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,typescript,javascript,react,vite,nestjs,cs,postgres,redis,docker,git,github)](https://skillicons.dev)
+### Contact
 
-</div>
-
-## Статистика
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Dikiliev&show_icons=true&theme=transparent&hide_border=true&locale=ru)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikiliev&layout=compact&theme=transparent&hide_border=true&locale=ru)
-
-</div>
-
-## Избранные проекты
-
-### 1. Название проекта
-Краткое описание: что делает проект, какой стек, чем он интересен.
-
-**Стек:** Django, DRF, React, PostgreSQL, Docker
-
-### 2. Название проекта
-Краткое описание: backend-сервис / full-stack приложение / realtime-модуль.
-
-**Стек:** NestJS, Redis, WebSockets, PostgreSQL
-
-### 3. Название проекта
-Краткое описание: красивый frontend или production-подход.
-
-**Стек:** React, TypeScript, Vite, MUI / shadcn/ui
-
-<details>
-<summary><b>Подробнее обо мне</b></summary>
-
-- Люблю аккуратную архитектуру и понятный код
-- Интересуюсь full-stack разработкой и production-подходом
-- Делаю pet-projects, приближенные к реальным продуктам
-
-</details>
+**Telegram:** [@mdikiy](https://t.me/mdikiy)  
+**Email:** [mdikiy069@gmail.com](mailto:mdikiy069@gmail.com)
